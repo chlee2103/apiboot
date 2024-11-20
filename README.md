@@ -2,7 +2,7 @@
 
 #### 💻 Project Skills
 ##### Spring Boot v3.2
-##### Java v17
+##### Java 17
 ##### MySQL, JPA, Spring Security, JWT
 
 
